@@ -193,3 +193,4 @@ class MCAuth {
         return false;
     }
 }
+?>
